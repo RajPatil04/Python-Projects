@@ -11,7 +11,6 @@ This repository contains Python projects built on a daily basis to strengthen my
 It's a perfect place for beginners to follow along or for others to track my progress over time.
 
 ---
-
 ## 🔧 Technologies Used
 
 - Python 3.x
@@ -37,7 +36,6 @@ It's a perfect place for beginners to follow along or for others to track my pro
 - 🌱 Grow from basic scripting to intermediate applications
 
 ---
-
 
 ## 🙋‍♂️ Author
 
