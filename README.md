@@ -42,5 +42,5 @@ It's a perfect place for beginners to follow along or for others to track my pro
 ## 🙋‍♂️ Author
 
 - **[RAJ PATIL]** – Python Learner & Developer  
-- GitHub: [https://github.com/your-username](https://github.com/your-username)  
-- Email: your-email@example.com  
+- GitHub: [https://github.com/RajPatil04](https://github.com/RajPatil04)  
+- Email: rajnpatil04@example.com  
